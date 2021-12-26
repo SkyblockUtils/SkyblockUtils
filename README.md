@@ -9,3 +9,6 @@ Contact: Joaraz#0014
 ## - Hytilities
 ## - Hael Stripped Mazefix (Hael9 Fix)
 Some of the mods in this repository are cracked so make sure to use them at your own risk! You might get your account banned from the official mod if you decide to use this!
+
+
+If you would like us to add a mod/discord/tutorial etc to our repository contact us on discord!
