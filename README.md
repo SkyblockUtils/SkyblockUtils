@@ -7,3 +7,4 @@
 ## - Oringo Client
 ## - Hytilities
 ## - Hael Stripped Mazefix (Hael9 Fix)
+Some of the mods in this repository are cracked so make sure to use them at your own risk! You might get your account banned from the official mod if you decide to use this!
