@@ -1,6 +1,7 @@
 ### Hi there 👋 this repository is specially made for newgen/mid/late game players
 ### all information, mods and links will be posted in our repository!
-
+Basic information about the github repository owners: Skill Average 42, wiped for cheating semi known in the community.
+Contact: Joaraz#0014
 
 ## Mods:
 ## - Skyblock Extras 2.1.8-hotfix Crack (Note using this might get your account banned from SBE)
